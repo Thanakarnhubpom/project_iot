@@ -1,0 +1,16 @@
+{
+  "appTitle": "ระบบประเมินบุคลากร",
+  "dashboard": "หน้าแรก",
+  "profile": "ข้อมูลส่วนตัว",
+  "evaluate": "ประเมินผล",
+  "evaluationList": "รายการประเมิน",
+  "manageUsers": "จัดการผู้ใช้",
+  "settings": "ตั้งค่า",
+  "editProfile": "แก้ไขโปรไฟล์",
+  "logout": "ออกจากระบบ",
+  "role": "บทบาท",
+  "notifications": "การแจ้งเตือน",
+  "close": "ปิด",
+  "developedBy": "พัฒนาโดยทีม",
+  "student": "นักศึกษา"
+}

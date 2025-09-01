@@ -1,0 +1,16 @@
+{
+  "appTitle": "Personnel Evaluation System",
+  "dashboard": "Dashboard",
+  "profile": "Profile",
+  "evaluate": "Evaluation",
+  "evaluationList": "Evaluations",
+  "manageUsers": "User Management",
+  "settings": "Settings",
+  "editProfile": "Edit Profile",
+  "logout": "Logout",
+  "role": "Role",
+  "notifications": "Notifications",
+  "close": "Close",
+  "developedBy": "Developed by",
+  "student": "students"
+}
